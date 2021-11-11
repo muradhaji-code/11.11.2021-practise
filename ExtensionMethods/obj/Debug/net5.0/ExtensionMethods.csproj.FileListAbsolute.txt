@@ -1,0 +1,12 @@
+C:\Users\Code Academy\source\repos\11.11.2021-practise\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.deps.json
+C:\Users\Code Academy\source\repos\11.11.2021-practise\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.dll
+C:\Users\Code Academy\source\repos\11.11.2021-practise\ExtensionMethods\bin\Debug\net5.0\ref\ExtensionMethods.dll
+C:\Users\Code Academy\source\repos\11.11.2021-practise\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.pdb
+C:\Users\Code Academy\source\repos\11.11.2021-practise\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\Code Academy\source\repos\11.11.2021-practise\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code Academy\source\repos\11.11.2021-practise\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\Code Academy\source\repos\11.11.2021-practise\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.AssemblyInfo.cs
+C:\Users\Code Academy\source\repos\11.11.2021-practise\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Code Academy\source\repos\11.11.2021-practise\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.dll
+C:\Users\Code Academy\source\repos\11.11.2021-practise\ExtensionMethods\obj\Debug\net5.0\ref\ExtensionMethods.dll
+C:\Users\Code Academy\source\repos\11.11.2021-practise\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.pdb
